@@ -1,0 +1,6 @@
+{
+  "name": "Uni-Rythmics",
+  "description": "Horological Edison-glass metrology instrument and visual learning engine for Golden Ratio dodecagonal scaling, watch-style rolodex multipliers, and side-by-side scientific unit comparison.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
